@@ -1,0 +1,11 @@
+__pycache__/
+.env
+*.log
+*.mp4
+*.webm
+*.mkv
+*.mov
+/tmp/
+.venv/
+venv/
+quality_store.json
